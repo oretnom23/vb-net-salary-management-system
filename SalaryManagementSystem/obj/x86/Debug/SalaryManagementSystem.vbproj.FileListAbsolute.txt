@@ -1,0 +1,45 @@
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.exe
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.pdb
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.EmployeeDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmMain.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.Resources.resources
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.xml
+C:\Documents and Settings\Excel_2\Desktop\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.exe
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.xml
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.pdb
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.EmployeeDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmMain.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.Resources.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\x86\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config

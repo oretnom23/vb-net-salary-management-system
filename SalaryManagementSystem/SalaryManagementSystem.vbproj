@@ -1,0 +1,370 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{EEAE7BE8-DA7A-4EA1-A3CC-CFB4F3F4699E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>SalaryManagementSystem.My.MyApplication</StartupObject>
+    <RootNamespace>SalaryManagementSystem</RootNamespace>
+    <AssemblyName>SalaryManagementSystem</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SalaryManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SalaryManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|AnyCPU'">
+    <DebugSymbols>true</DebugSymbols>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>SalaryManagementSystem.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|AnyCPU'">
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>SalaryManagementSystem.xml</DocumentationFile>
+    <Optimize>true</Optimize>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <CodeAnalysisIgnoreBuiltInRuleSets>true</CodeAnalysisIgnoreBuiltInRuleSets>
+    <CodeAnalysisIgnoreBuiltInRules>true</CodeAnalysisIgnoreBuiltInRules>
+    <CodeAnalysisFailOnMissingRules>true</CodeAnalysisFailOnMissingRules>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Icon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CRVsPackageLib">
+      <HintPath>bin\CRVsPackageLib.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=13.0.2000.0, Culture=neutral, PublicKeyToken=692fbea5521e1304, processorArchitecture=MSIL" />
+    <Reference Include="FlashControlV71, Version=1.0.3187.32366, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>C:\Program Files\Microsoft Visual Studio 10.0\Visual Studio Tools for Office\PIA\Office12\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="EmployeeDetails.Designer.vb">
+      <DependentUpon>EmployeeDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeSalaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EmployeeSalaryDetails.Designer.vb">
+      <DependentUpon>EmployeeSalaryDetails.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.vb">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAbout.Designer.vb">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAbout.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpDetails.Designer.vb">
+      <DependentUpon>FrmEmpDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpDetails2.Designer.vb">
+      <DependentUpon>FrmEmpDetails2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpDetails2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmEmpDetails3.Designer.vb">
+      <DependentUpon>FrmEmpDetails3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmEmpDetails3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.vb">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetails.Designer.vb">
+      <DependentUpon>FrmNonTeachEmpDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetails2.Designer.vb">
+      <DependentUpon>FrmNonTeachEmpDetails2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetails2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetails3.Designer.vb">
+      <DependentUpon>FrmNonTeachEmpDetails3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetails3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetailsReports.Designer.vb">
+      <DependentUpon>FrmNonTeachEmpDetailsReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachEmpDetailsReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachStaffEmpDetails.Designer.vb">
+      <DependentUpon>FrmNonTeachStaffEmpDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachStaffEmpDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachStaffSalaryDetails.Designer.vb">
+      <DependentUpon>FrmNonTeachStaffSalaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachStaffSalaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNonTeachStaffSalaryReport.Designer.vb">
+      <DependentUpon>FrmNonTeachStaffSalaryReport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNonTeachStaffSalaryReport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPGStaffEmpDetailsReports.Designer.vb">
+      <DependentUpon>FrmPGStaffEmpDetailsReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPGStaffEmpDetailsReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPGStaffSalaryDetails.Designer.vb">
+      <DependentUpon>FrmPGStaffSalaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPGStaffSalaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPGStaffSalaryDetails2.Designer.vb">
+      <DependentUpon>FrmPGStaffSalaryDetails2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPGStaffSalaryDetails2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPGStaffSalaryReports.Designer.vb">
+      <DependentUpon>FrmPGStaffSalaryReports.vb</DependentUpon>
+    </Compile>
+    <Compile Include="FrmPGStaffSalaryReports.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="Module2.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="NonTeachStaffSalaryDetails.Designer.vb">
+      <DependentUpon>NonTeachStaffSalaryDetails.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NonTeachStaffSalaryDetails.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NonTeachStaffSalaryDetails2.Designer.vb">
+      <DependentUpon>NonTeachStaffSalaryDetails2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NonTeachStaffSalaryDetails2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.vb">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="EmployeeDetails.resx">
+      <DependentUpon>EmployeeDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeSalaryDetails.resx">
+      <DependentUpon>EmployeeSalaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAbout.resx">
+      <DependentUpon>FrmAbout.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpDetails.resx">
+      <DependentUpon>FrmEmpDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpDetails2.resx">
+      <DependentUpon>FrmEmpDetails2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmEmpDetails3.resx">
+      <DependentUpon>FrmEmpDetails3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachEmpDetails.resx">
+      <DependentUpon>FrmNonTeachEmpDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachEmpDetails2.resx">
+      <DependentUpon>FrmNonTeachEmpDetails2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachEmpDetails3.resx">
+      <DependentUpon>FrmNonTeachEmpDetails3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachEmpDetailsReports.resx">
+      <DependentUpon>FrmNonTeachEmpDetailsReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachStaffEmpDetails.resx">
+      <DependentUpon>FrmNonTeachStaffEmpDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachStaffSalaryDetails.resx">
+      <DependentUpon>FrmNonTeachStaffSalaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNonTeachStaffSalaryReport.resx">
+      <DependentUpon>FrmNonTeachStaffSalaryReport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPGStaffEmpDetailsReports.resx">
+      <DependentUpon>FrmPGStaffEmpDetailsReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPGStaffSalaryDetails.resx">
+      <DependentUpon>FrmPGStaffSalaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPGStaffSalaryDetails2.resx">
+      <DependentUpon>FrmPGStaffSalaryDetails2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPGStaffSalaryReports.resx">
+      <DependentUpon>FrmPGStaffSalaryReports.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NonTeachStaffSalaryDetails.resx">
+      <DependentUpon>NonTeachStaffSalaryDetails.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NonTeachStaffSalaryDetails2.resx">
+      <DependentUpon>NonTeachStaffSalaryDetails2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Icon.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

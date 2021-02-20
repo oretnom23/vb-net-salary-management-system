@@ -1,0 +1,212 @@
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmMain.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryReports.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Resources.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.xml
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryReport.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffEmpDetailsReports.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetailsReports.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Form1.resources
+C:\WINDOWS\cs\New SalaryManagementSystem\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmAbout.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.xml
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Form1.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmAbout.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmMain.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetailsReports.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryReport.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffEmpDetailsReports.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryReports.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Resources.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\GenerateResource-ResGen.read.1.tlog
+H:\My Documents\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.xml
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\office.dll
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\office.xml
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbprojResolveAssemblyReference.cache
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Form1.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmAbout.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmMain.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetailsReports.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryReport.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffEmpDetailsReports.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryReports.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Resources.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.SplashScreen1.resources
+D:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbproj.GenerateResource.Cache
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.xml
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\office.dll
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Office.Interop.Excel.xml
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\office.xml
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbprojResolveAssemblyReference.cache
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Form1.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmAbout.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmMain.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetailsReports.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryReport.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffEmpDetailsReports.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryReports.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Resources.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.SplashScreen1.resources
+H:\16-12-2014\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbproj.GenerateResource.Cache
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.xml
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Office.Interop.Excel.dll
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\office.dll
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Vbe.Interop.dll
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\Microsoft.Office.Interop.Excel.xml
+G:\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\office.xml
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\ResolveAssemblyReference.cache
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Form1.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmAbout.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmMain.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetailsReports.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryReport.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffEmpDetailsReports.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryReports.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Resources.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.SplashScreen1.resources
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\GenerateResource-ResGen.read.1.tlog
+G:\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe.config
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.pdb
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\SalaryManagementSystem.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\CRVsPackageLib.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\bin\Debug\stdole.dll
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbprojAssemblyReference.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.EmployeeSalaryDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Form1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmAbout.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails2.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmEmpDetails3.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmMain.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails2.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetails3.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachEmpDetailsReports.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffEmpDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmNonTeachStaffSalaryReport.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffEmpDetailsReports.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryDetails2.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.FrmPGStaffSalaryReports.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.Resources.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.NonTeachStaffSalaryDetails2.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.SplashScreen1.resources
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbproj.GenerateResource.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbproj.CoreCompileInputs.cache
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.vbproj.CopyComplete
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.exe
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.xml
+C:\Users\Personal-01\Desktop\Sourcecodester\SalaryManagementSystem\SalaryManagementSystem\obj\Debug\SalaryManagementSystem.pdb
